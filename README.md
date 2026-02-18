@@ -11,8 +11,6 @@ The goal of this repo is to strengthen problem-solving skills, improve logical t
 ✔ Clean and readable Python code
 ✔ Optimized approaches
 ✔ Time & Space Complexity analysis
-✔ Multiple solutions where possible
-
 
 
 ## Learning Goals
